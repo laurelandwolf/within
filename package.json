@@ -1,11 +1,25 @@
 {
   "name": "within",
   "version": "1.0.0",
-  "description": "",
+  "description": "Fixed/sticky elements within other elements",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Laurel & Wolf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurelandwolf/within.git"
+  },
+  "keywords": [
+    "fixed",
+    "sticky",
+    "dom",
+    "position"
+  ],
+  "bugs": {
+    "url": "https://github.com/laurelandwolf/within/issues"
+  },
+  "homepage": "https://github.com/laurelandwolf/within#readme"
 }
